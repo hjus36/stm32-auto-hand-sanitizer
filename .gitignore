@@ -1,0 +1,11 @@
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.su
+*.cyclo
+.DS_Store
+Thumbs.db
