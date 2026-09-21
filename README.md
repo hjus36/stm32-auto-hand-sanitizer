@@ -72,26 +72,6 @@ Wait Until Hand Is Removed
 
 반복 분사를 방지하기 위해 손이 감지된 상태에서는 한 번만 동작한 뒤, 센서 입력이 해제될 때까지 정지 상태를 유지합니다.
 
-## 📁 Repository Structure
-
-```text
-.
-├── README.md
-├── firmware/
-│   ├── Core/
-│   ├── Drivers/
-│   ├── MG995_Test.ioc
-│   ├── STM32H743VITX_FLASH.ld
-│   └── STM32H743VITX_RAM.ld
-├── docs/
-│   ├── cad-design.png
-│   └── slicer-preview.png
-└── demo/
-    └── demo.gif
-```
-
-`Debug/` 등 빌드 결과물은 저장소에서 제외했습니다.
-
 ## 📌 Project Type
 
 - University Course Project
